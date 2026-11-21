@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.gradio/
+chroma/
+chroma_db/
+*.log
+.DS_Store
+Thumbs.db
